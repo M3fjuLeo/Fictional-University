@@ -23,7 +23,7 @@ get_header();
 
         <div class="generic-content"><?php the_content() ?></div>
     </div>
-
+ 
         <?php 
     }
 
